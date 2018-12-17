@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akm170730/bookApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akm170730/bookApi/issues"
+  },
+  "homepage": "https://github.com/akm170730/bookApi#readme"
 }
