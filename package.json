@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/akm170730/bookApi/issues"
   },
-  "homepage": "https://github.com/akm170730/bookApi#readme"
+  "homepage": "https://github.com/akm170730/bookApi#readme",
+  "keywords": [
+    "Book",
+    "Service"
+  ]
 }
